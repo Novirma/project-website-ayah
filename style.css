@@ -57,3 +57,26 @@ html {
 
 
 /* CSS Index.html END */
+
+/* CSS Menu Penjualan Motor */
+
+.intro-harga{
+    text-align: center;
+    font-weight: bold;
+}
+
+.labelHarga{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    color: blue;
+}
+
+.logoHonda{
+    width: 100px;
+    height: 70px;
+    margin: 15px;
+}
+
+
+/* CSS Menu Penjualan Motor End */
