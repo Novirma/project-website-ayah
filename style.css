@@ -80,3 +80,36 @@ html {
 
 
 /* CSS Menu Penjualan Motor End */
+
+/* CSS Detail Penjualan */
+
+.sub-detail-gambar{
+    height: 500px;
+    width: 50%;
+    /* background-color: aqua; */
+    justify-content: center;
+}
+
+.img-detail{
+    height: 500px;
+    width: 100%;
+    /* display: flex; */
+    /* margin: auto; */
+}
+
+.sub-detail-keterangan{
+    height: 500px;
+    width: 50%;
+    /* background-color: gold; */
+    padding-top: 125px;
+    padding-bottom: 100px;
+}
+
+.labelHargaDetail{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    color: blue;
+}
+
+/* CSS Detail Penjualan END */
