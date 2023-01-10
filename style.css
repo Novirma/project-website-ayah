@@ -113,3 +113,76 @@ html {
 }
 
 /* CSS Detail Penjualan END */
+
+/* CSS Menu Account */
+
+.form-account{
+    width: 50%;
+    height: 600px;
+    /* background-color: gold; */
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: solid 5px;
+    border-radius: 10px ;
+    padding: 30px;
+    
+}
+
+.form-account h2{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 30px;
+}
+
+.form-icon-user{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+}
+
+.text-box{
+    /* justify-content: center; */
+    /* width: 100%; */
+    /* font-size: 20px; */
+    padding: 8px 0;
+    margin: 8px 0px;
+    display: flex;
+    
+}
+
+/* .text-box input{
+    width: 400px;
+    height: 70px;
+    padding: 10px;
+} */
+
+.form-account a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: red;
+    font-size: 20px;
+    margin: 15px;
+}
+
+
+/* CSS Menu Account End */
+
+/* CSS Menu Create Account */
+
+.text-box-create{
+    /* justify-content: center; */
+    /* width: 100%; */
+    /* font-size: 20px; */
+    padding: 8px 0;
+    margin: 8px 30px;
+    display: flex;
+    
+}
+
+
+
+/* CSS Menu Create Account END */
