@@ -186,3 +186,77 @@ html {
 
 
 /* CSS Menu Create Account END */
+
+/* CSS Menu Keranjang */
+
+.container-keranjang{
+    width: 50%;
+    height: 600px;
+    border: solid 5px;
+    border-radius: 10px;
+    margin : 50px;
+    padding: 10px;
+    background-color: #cac8c8 ;
+}
+
+.sub-container-keranjang{
+    width: 50%;
+    /* background-color: gold; */
+    margin: 20px;
+}
+
+.box-input{
+    width: 20px;
+    height: 20px;
+}
+
+.sub-container-fitur-keranjang{
+    width: 30%;
+    /* height: 400px; */
+    /* background-color: aqua; */
+    margin: 20px;
+    padding: 50px;
+}
+
+.gambar-keranjang{
+    width: 100%;
+    height: 300px;
+}
+
+.button-keranjang{
+    background: none;
+    border: none;
+    margin: 30px;
+}
+
+.button-img-keranjang{
+    width: 40px;
+    height: 40px;
+}
+
+.option-all{
+    margin: 40px;
+}
+
+.container-rangkuman{
+    width: 30%;
+    height: 300px;
+    border: solid 5px;
+    border-radius: 10px;
+    margin : 50px;
+    padding: 30px;
+    background-color: #cac8c8 ;
+
+}
+
+.container-rangkuman p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.menu-keranjang{
+    margin: 50px;
+}
+
+
+/* CSS Menu Keranjang END */
